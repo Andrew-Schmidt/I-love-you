@@ -1,0 +1,24 @@
+*
+{
+	background: #DF3F3F;
+	text-align: center;
+}
+.main
+{
+	padding-left: 10%;
+	padding-right: 10%;
+}
+h1
+{
+	color: #5B1414;
+}
+
+.gallery
+{
+	float: none;
+	width: 30%;
+}
+iframe
+{
+	color: transparent;
+}
